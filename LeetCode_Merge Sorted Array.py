@@ -22,6 +22,7 @@ class Solution:
             nums1[nd1] = nums2[nd2]
         nums1 = nums1.sort()
         return None
+
 if __name__ == "__main__":
     nums1 = [1,2,3,0,0,0]
     m = 3
